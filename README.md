@@ -1,6 +1,6 @@
-# Automação de Notificação de Certificado HTTPS com AWS Lambda
+# Automação de Notificação de Certificado SSL com AWS Lambda
 
-Este projeto surgiu da necessidade de implementar um certificado HTTPS no meu site, [eduardolentz.com.br](http://www.eduardolentz.com.br), utilizando serviços da AWS como ACM (AWS Certificate Manager), Route53 e CloudFront.
+Este projeto surgiu da necessidade de implementar um certificado SSL no meu site, [eduardolentz.com.br](http://www.eduardolentz.com.br), utilizando serviços da AWS como ACM (AWS Certificate Manager), Route53 e CloudFront.
 
 No processo, precisei criar um certificado SSL no ACM, validá-lo com registros DNS no Route53 e posteriormente criar uma distribuição no CloudFront para utilizar o certificado validado.
 
