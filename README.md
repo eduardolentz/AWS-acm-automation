@@ -48,7 +48,7 @@ Confira o artigo completo no Medium, com os detalhes e aprendizados:
 🔗 [Como automatizei a validação do meu certificado SSL usando AWS Lambda (e me livrei da ansiedade)](https://medium.com/@eduardolentz/como-automatizei-a-valida%C3%A7%C3%A3o-do-meu-certificado-ssl-usando-aws-lambda-e-me-livrei-da-ansiedade-5b82ae8abf86)
 
 
-### Autor
+--- 
 
 ### Eduardo O. Lentz  
 💻 [Portfolio](http://www.eduardolentz.com.br) | 🔗 [LinkedIn](https://www.linkedin.com/in/eduardolentz) | 📂 [GitHub](https://github.com/eduardolentz) | 📝 [Medium](https://medium.com/@eduardolentz) | 📸 [Instagram](https://www.instagram.com/eduardolntz/)
