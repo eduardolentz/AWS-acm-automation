@@ -45,7 +45,7 @@ acm-automation/
 Quer entender os bastidores deste projeto e como integrei vários serviços da AWS para resolver um problema real?  
 Confira o artigo completo no Medium, com os detalhes e aprendizados:
 
-🔗 [Como automatizei a validação do meu certificado HTTPS usando AWS Lambda (e me livrei da ansiedade)](https://medium.com/@eduardolentz/como-automatizei-a-valida%C3%A7%C3%A3o-do-meu-certificado-https-usando-aws-lambda-e-me-livrei-da-ansiedade-5b82ae8abf86)
+🔗 [Como automatizei a validação do meu certificado SSL usando AWS Lambda (e me livrei da ansiedade)](https://medium.com/@eduardolentz/como-automatizei-a-valida%C3%A7%C3%A3o-do-meu-certificado-ssl-usando-aws-lambda-e-me-livrei-da-ansiedade-5b82ae8abf86)
 
 
 ### Autor
