@@ -1,0 +1,29 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": "logs:CreateLogGroup",
+        "Resource": "arn:aws:logs:us-east-2:307946677593:*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ],
+        "Resource": "arn:aws:logs:us-east-2:307946677593:log-group:/aws/lambda/ACM-notification:*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": "acm:DescribeCertificate",
+        "Resource": "arn:aws:acm:us-east-1:307946677593:certificate/163dda30-5e74-4da8-9405-f9d2acf94035"
+      },
+      {
+        "Effect": "Allow",
+        "Action": "sns:Publish",
+        "Resource": "arn:aws:sns:us-east-2:307946677593:SEU_TOPICO"
+      }
+    ]
+  }
+  
